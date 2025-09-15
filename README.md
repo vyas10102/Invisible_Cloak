@@ -19,7 +19,7 @@ The script captures a clean background, segments a chosen cloak color in HSV col
 
 ## Demo
 
-<video src="Demo Clip 2.mp4" controls width="600"></video>
+<video src="demo.mp4" controls width="600"></video>
 
 ---
 
