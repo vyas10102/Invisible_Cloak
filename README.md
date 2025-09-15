@@ -19,7 +19,7 @@ The script captures a clean background, segments a chosen cloak color in HSV col
 
 ## Demo
 
-<video src="demo.mp4" controls width="600"></video>
+![Invisibility Cloak Demo](demo.mp4)
 
 ---
 
